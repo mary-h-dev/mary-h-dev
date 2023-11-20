@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My previous GitHub is currently unavailable
+## My previous GitHub page is currently unavailable
 
 ## Languages Used
 
