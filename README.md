@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 ## My previous GitHub page is currently unavailable
 
 ## Languages Used
@@ -10,6 +9,7 @@
 - HTML/CSS
 - ...
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
