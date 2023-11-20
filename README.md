@@ -3,6 +3,7 @@
 ## Languages Used
 
 - JavaScript
+- TypeScript
 - Python
 - HTML/CSS
 - ...
