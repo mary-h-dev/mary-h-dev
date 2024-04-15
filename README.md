@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Maryam
 ## I develop user interfaces and web applications
 ### My previous GitHub page is currently unavailable
 
@@ -6,12 +6,12 @@
 const response = {
   status: 202,
   data: {
-    name: "Moawezz Dehghani",
-    nickname: "</moawezz>",
-    birthDay: "09 Apr",
-    skills: "python, django",
-    university: "Kerman Khaje-Nasir E.C",
-    hobbies: "coding, movies, books",
+    name: "Maryam Habibpour",
+    nickname: "</hpr>",
+    birthDay: "03 Dec",
+    skills: "NextJS, ReactJS, Python, django",
+    university: "Shahrood University of Technology",
+    hobbies: "coding, fitness, books",
   }
 };
 ```
