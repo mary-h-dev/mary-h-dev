@@ -9,6 +9,19 @@
 - HTML/CSS
 - ...
 
+- 
+const response = {
+  status: 202,
+  data: {
+    name: "Moawezz Dehghani",
+    nickname: "</moawezz>",
+    birthDay: "09 Apr",
+    skills: "python, django",
+    university: "Kerman Khaje-Nasir E.C",
+    hobbies: "coding, movies, books",
+  }
+};
+
 
 <!--
 **maryamHabibpourr/maryamHabibpourr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
