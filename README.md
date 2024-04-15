@@ -9,7 +9,8 @@
 - HTML/CSS
 - ...
 
-- 
+
+```ts
 const response = {
   status: 202,
   data: {
@@ -21,6 +22,7 @@ const response = {
     hobbies: "coding, movies, books",
   }
 };
+```
 
 
 <!--
