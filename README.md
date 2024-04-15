@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I develop user interfaces and web applications
-# My previous GitHub page is currently unavailable
+### My previous GitHub page is currently unavailable
 
 ```ts
 const response = {
