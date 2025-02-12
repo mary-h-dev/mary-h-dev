@@ -9,7 +9,7 @@ const response = {
     name: "Maryam Habibpour",
     nickname: "</hpr>",
     birthDay: "03 Dec",
-    skills: "NextJS, ReactJS, Python, django",
+    skills: "NextJS, ReactJS, Python, django","AI",
     university: "Shahrood University of Technology",
     hobbies: "coding, fitness, books",
   }
