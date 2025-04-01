@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Maryam
+### Hi there 👋, I'm Mary
 ## I'm a full-stack dev who’s really into AI
 ### My previous GitHub page is currently unavailable
 
